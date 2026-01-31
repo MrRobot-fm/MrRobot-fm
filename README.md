@@ -1,6 +1,6 @@
 # Hi, I'm Federico 👋
 
-📍 Rome, Italy | 💻 Frontend Developer
+📍 Rome, Italy  |  💻 Frontend Developer
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -13,19 +13,19 @@
 
 I focus on building **modern, scalable user interfaces** for web and mobile applications, with strong attention to frontend architecture, performance and user experience.
 
-🚀 **Portfolio** → [Visit](https://federicomigliore.vercel.app)  
-📫 **Contact** → [Email me](mailto:federicomiglioredev@gmail.com)  
-👽 **LinkedIn** → [Profile](https://www.linkedin.com/in/federicomigliore)
+ **Portfolio** → [Visit](https://federicomigliore.vercel.app)  
+ **Contact** → [Email me](mailto:federicomiglioredev@gmail.com)  
+ **LinkedIn** → [Profile](https://www.linkedin.com/in/federicomigliore)
 
 ---
 
-## 👨‍💻 Profile
+## Profile
 Frontend Developer with experience in building **scalable and maintainable interfaces** for web and mobile applications.  
 I’m looking for **product-driven environments** where I can contribute to the long-term evolution of a product, taking ownership of frontend architecture, UX quality and code maintainability.
 
 ---
 
-## 🚀 What I bring to a team
+## What I bring to a team
 - Development of **production-ready web applications** using **React, Next.js, Remix and TypeScript**
 - Building **mobile applications** with **React Native and Expo**
 - Reliable integration with **REST APIs** and external services
