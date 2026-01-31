@@ -1,10 +1,10 @@
 # 👋 Ciao, sono Federico (MrRobot-fm)
 
 📍 Rome, Italy  
-💻 Full-Stack Developer / Open-Source Enthusiast / Tech Explorer
+💻 Frontend Developer / Tech Explorer
 
-🌐 https://federicomigliore.vercel.app  
-📫 mandami un’email: [tuo email]
+🌐 [Il mio sito portfolio](https://federicomigliore.vercel.app)  
+📫 mandami un’email: [tuo email](federicomiglioredev@gmail.com)
 
 ---
 
@@ -31,4 +31,4 @@
 ---
 
 ## 📈 Connettiti con me
-[LinkedIn](https://linkedin.com/in/…) · [Twitter](https://twitter.com/…) · [Mastodon …]
+[LinkedIn](https://linkedin.com/in/…)
