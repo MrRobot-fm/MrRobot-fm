@@ -13,8 +13,9 @@
 
 I focus on building **modern, scalable user interfaces** for web and mobile applications, with strong attention to frontend architecture, performance and user experience.
 
-🚀 **Portfolio** → https://federicomigliore.vercel.app  
-📫 **Contact** → federicomiglioredev@gmail.com
+🚀 **Portfolio** → [Visit](https://federicomigliore.vercel.app)  
+📫 **Contact** → [Email me](mailto:federicomiglioredev@gmail.com)  
+👽 **LinkedIn** → [Profile](https://www.linkedin.com/in/federicomigliore)
 
 ---
 
@@ -31,7 +32,3 @@ I’m looking for **product-driven environments** where I can contribute to the 
 - Design of **reusable components**, custom hooks and clean frontend architectures
 - Strong focus on **performance, UX and code quality**
 
----
-
-## 🔗 Contacts
-[LinkedIn](https://www.linkedin.com/in/federicomigliore/)
