@@ -4,7 +4,7 @@
 💻 Frontend Developer / Tech Explorer
 
 🌐 [Il mio sito portfolio](https://federicomigliore.vercel.app)  
-📫 mandami un’email: [tuo email](federicomiglioredev@gmail.com)
+📫 mandami un’email: [federicomiglioredev@gmail.com](mailto:federicomiglioredev@gmail.com)
 
 ---
 
@@ -16,10 +16,12 @@
 ---
 
 ## 🔧 Tecnologie
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
