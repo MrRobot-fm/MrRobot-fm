@@ -1,36 +1,44 @@
 # 👋 Ciao, sono Federico (MrRobot-fm)
 
 📍 Rome, Italy  
-💻 Frontend Developer / Tech Explorer
+💻 Frontend Developer
 
-🌐 [Il mio sito portfolio](https://federicomigliore.vercel.app)  
-📫 mandami un’email: [federicomiglioredev@gmail.com](mailto:federicomiglioredev@gmail.com)
-
----
-
-## 🚀 Quello che faccio
-- Sviluppo progetti con TypeScript & JavaScript
-- Realizzo dashboard e dashboard tools
-- Esploro tecnologie emergenti e automazioni
+🌐 [Portfolio](https://federicomigliore.vercel.app)  
+📫 [federicomiglioredev@gmail.com](mailto:federicomiglioredev@gmail.com)
 
 ---
 
-## 🔧 Tecnologie
+## 👨‍💻 Profilo
+Frontend Developer con esperienza nello sviluppo di **interfacce moderne e scalabili** per web app e applicazioni mobile.  
+Cerco contesti **product-driven**, dove poter contribuire all’evoluzione di un prodotto nel lungo periodo, curando **architettura frontend, UX e manutenibilità del codice**.
+
+---
+
+## 🚀 Cosa porto in un team
+- Sviluppo di **web app production-ready** con **React, Next.js, Remix e TypeScript**
+- Realizzazione di **app mobile** con **React Native ed Expo**
+- Integrazione affidabile con **API REST** e servizi esterni
+- Creazione di **componenti riutilizzabili**, custom hooks e architetture frontend pulite
+- Attenzione a **performance, UX e qualità del codice**
+
+---
+
+## 🔧 Stack principale
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ---
 
-## ⭐ Progetti in evidenza
-- **Vionex-Flow** — Project management dashboard  
-- **Token-Discover** — NFT discovery platform  
-- **Flight-Footprint** — Track flight footprints
+## ⭐ Progetti selezionati
+- **Vionex-Flow** — Dashboard per il project management  
+- **Token-Discover** — Piattaforma per la scoperta di NFT  
+- **Flight-Footprint** — Tool per il tracking dei voli
 
 ---
 
-## 📈 Connettiti con me
-[LinkedIn](https://linkedin.com/in/…)
+## 🔗 Contatti
+[LinkedIn](https://www.linkedin.com/in/federicomigliore/)
