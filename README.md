@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Federico (MrRobot-fm)
+# 🤖 Ciao, sono Federico
 
 📍 Rome, Italy  
 💻 Frontend Developer
@@ -30,13 +30,6 @@ Cerco contesti **product-driven**, dove poter contribuire all’evoluzione di un
 ![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
----
-
-## ⭐ Progetti selezionati
-- **Vionex-Flow** — Dashboard per il project management  
-- **Token-Discover** — Piattaforma per la scoperta di NFT  
-- **Flight-Footprint** — Tool per il tracking dei voli
 
 ---
 
