@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Ciao, sono Federico (MrRobot-fm)
 
-<!--
-**MrRobot-fm/MrRobot-fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Rome, Italy  
+💻 Full-Stack Developer / Open-Source Enthusiast / Tech Explorer
 
-Here are some ideas to get you started:
+🌐 https://federicomigliore.vercel.app  
+📫 mandami un’email: [tuo email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Quello che faccio
+- Sviluppo progetti con TypeScript & JavaScript
+- Realizzo dashboard e dashboard tools
+- Esploro tecnologie emergenti e automazioni
+
+---
+
+## 🔧 Tecnologie
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+
+---
+
+## ⭐ Progetti in evidenza
+- **Vionex-Flow** — Project management dashboard  
+- **Token-Discover** — NFT discovery platform  
+- **Flight-Footprint** — Track flight footprints
+
+---
+
+## 📈 Connettiti con me
+[LinkedIn](https://linkedin.com/in/…) · [Twitter](https://twitter.com/…) · [Mastodon …]
